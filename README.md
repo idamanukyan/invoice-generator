@@ -9,23 +9,23 @@ A lightweight Python application that allows freelancers, small business owners,
 🖋️ Customizable invoice title, date, and invoice number
 🧾 Generates a polished PDF invoice
 💼 Save your client info for future use
-🎨 Includes basic invoice template (can be extended)
+🎨 Includes basic invoice template
+
 🛠️ Built With
 Python 3
 fpdf or reportlab for PDF generation
 Optional GUI: Tkinter or Streamlit
+
 📦 Installation
-git clone https://github.com/yourusername/invoice-generator
+git clone https://github.com/idamanukyan/invoice-generator
 cd invoice-generator
 pip install -r requirements.txt
 python main.py
-📄 Example
-
-(Add a screenshot or sample invoice PDF for better impact.)
 
 📌 Use Cases
 Freelancers generating client invoices
 Etsy/small shop sellers who need simple printable invoices
 Personal finance and billing projects
+
 🪪 License
 MIT – free to use and modify.
